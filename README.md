@@ -61,7 +61,7 @@ git push origin main
 ```
 
 ---
-## 🔄 **Re-Push New Changes to GitHub**
+# 🔄 **Re-Push New Changes to GitHub**
 After making additional changes to your code, follow these steps to push updates:
 
 #### 1️⃣ **Check the status of your repository**
